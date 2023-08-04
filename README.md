@@ -1,5 +1,7 @@
-# Prediction-of-Product-Sales
-sales prediction for food items sold at various stores
+# Prediction of Product Sales
+## Author: Arvin Kenneth Salas
+# Business Problem:
+We are finding the best predictors to improve item sales for grocery store organization
 
 ## Fruits and Vegetables and Snack foods are the most common products in each store
 ![item types](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/e6309b7e-7940-446d-8c58-08be8ec610ec)
