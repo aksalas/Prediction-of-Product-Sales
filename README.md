@@ -23,6 +23,15 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 ![Decision Tree Feature Importance](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/5aca3074-14ff-4bab-885e-81ea62c63f41)
 - The top 5 most important features are item mrp, grocery outlet type, item visibility, item weight, and supermarket outlet type.
+
+![Summary Bar Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/c70459b7-8546-40f5-a3ca-321eeb598ca3)
+- This model has item visibility as a lower influence on the model's ability to the previous model.
+- for the most part, the features are relatively the same.
+
+![Dot Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/f6a64b8f-7c82-4f1a-b711-b00516bd01ad)
+- The higher the MRP on the item, the higher the predicted item sales
+- Grocery store types have a lower predicted item sales compared to supermarket
+- The lower establishment year, the lower the predicted item sales
  
 # Predictor Model
 ## Regression Metrics for the predictor
