@@ -14,6 +14,8 @@ We are finding the best predictors to improve item sales for grocery store organ
 ![Item type vs outlet sales](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/b16b0f97-410f-4121-94b4-26ab8760ae77)
 - All of the items appear to have the sell about 2$,500,000 across all stores
 - Here we see that seafood yields the most sales per product for each grocery store
+
+  ![Linear Regerssion Model](
  
 # Predictor Model
 ## Regression Metrics for the predictor
