@@ -33,10 +33,19 @@ We are finding the best predictors to improve item sales for grocery store organ
 - Grocery store types have lower predicted item sales compared to supermarket
 - The lower establishment year, the lower the predicted item sales
 
+# Looking at the product with the highest sales
+
 ![High Sale](https://github.com/aksalas/Prediction-of-Product-Sales/blob/main/high_sale_explanation.png)
 - The most heavily influenced feature for this product is that it is sold in a grocery store.
 - the second highest influencer is the products MRP
-- 
+
+![High sales force plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/4017d066-057b-452c-ab74-646e2599b9c3)
+- The most heavily influenced feature for this product is that it is sold in a grocery store.
+
+# Looking at the product with the lowest sales
+![Low Sale](https://github.com/aksalas/Prediction-of-Product-Sales/blob/main/low_sale_lime_explanation.png)
+-- The most heavily influenced feature for this product is that it is sold in a grocery store.
+
 ![Low Sale Force Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/66cb5817-a3c6-4289-850f-00a82089c6c3)
 - The most heavily influenced feature according to the force plot is that it is also sold in a grocery store.
 
