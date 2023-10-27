@@ -17,7 +17,7 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 # Model Evaluations
 ![Linear Regerssion Model](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/621106fb-bd35-497c-b993-a199716f78b4)
-- Our model predicts that if the outlet type of the store is a grocery store, it will reduce item sales by $ 2000.
+- Our model predicts that if the product sold in a grocery store , it will reduce its sale by $ 2000.
 - The model also predicts that if the store is a type 3 supermarket, then the sales would increase by $ 1200 per count.
 - Lastly, the model also predicts that the item visibility of items will reduce the sales by $ 266.
 
@@ -30,7 +30,7 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 ![Dot Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/f6a64b8f-7c82-4f1a-b711-b00516bd01ad)
 - The higher the MRP on the item, the higher the predicted item sales
-- Grocery store types have a lower predicted item sales compared to supermarket
+- Grocery store types have lower predicted item sales compared to supermarket
 - The lower establishment year, the lower the predicted item sales
  
 # Predictor Model
