@@ -30,9 +30,13 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 ![Dot Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/f6a64b8f-7c82-4f1a-b711-b00516bd01ad)
 - The higher the MRP on the item, the higher the predicted item sales
-- Grocery store types have lower predicted item sales compared to supermarket
-- The lower establishment year, the lower the predicted item sales
- 
+- Grocery store types have a lower predicted item sales compared to supermarket
+- The older the store, the lower the predicted item sales
+
+![Lime Tabular Explaination](
+
+![Shap Force Plot](
+
 # Predictor Model
 ## Regression Metrics for the predictor
 ![Regression Model Metrics](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/9f06858f-d83b-4dd7-9be3-893fbc1f3c5e)
