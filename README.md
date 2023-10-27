@@ -17,7 +17,7 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 # Model Evaluations
 ![Linear Regerssion Model](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/621106fb-bd35-497c-b993-a199716f78b4)
-- Our model predicts that if the outlet type of the store is a grocery store, it will reduce item sales by $ 2000.
+- Our model predicts that if the product sold in a grocery store , it will reduce its sale by $ 2000.
 - The model also predicts that if the store is a type 3 supermarket, then the sales would increase by $ 1200 per count.
 - Lastly, the model also predicts that the item visibility of items will reduce the sales by $ 266.
 
@@ -30,9 +30,26 @@ We are finding the best predictors to improve item sales for grocery store organ
 
 ![Dot Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/f6a64b8f-7c82-4f1a-b711-b00516bd01ad)
 - The higher the MRP on the item, the higher the predicted item sales
-- Grocery store types have a lower predicted item sales compared to supermarket
+- Grocery store types have lower predicted item sales compared to supermarket
 - The lower establishment year, the lower the predicted item sales
- 
+
+# Looking at the product with the highest sales
+
+![High Sale](https://github.com/aksalas/Prediction-of-Product-Sales/blob/main/high_sale_explanation.png)
+- The most heavily influenced feature for this product is that it is sold in a grocery store.
+- the second highest influencer is the products MRP
+
+![High sales force plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/4017d066-057b-452c-ab74-646e2599b9c3)
+- The most heavily influenced feature for this product is that it is sold in a grocery store.
+
+# Looking at the product with the lowest sales
+![Low Sale](https://github.com/aksalas/Prediction-of-Product-Sales/blob/main/low_sale_lime_explanation.png)
+-- The most heavily influenced feature for this product is that it is sold in a grocery store.
+
+![Low Sale Force Plot](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/66cb5817-a3c6-4289-850f-00a82089c6c3)
+- The most heavily influenced feature according to the force plot is that it is also sold in a grocery store.
+
+
 # Predictor Model
 ## Regression Metrics for the predictor
 ![Regression Model Metrics](https://github.com/aksalas/Prediction-of-Product-Sales/assets/95392861/9f06858f-d83b-4dd7-9be3-893fbc1f3c5e)
